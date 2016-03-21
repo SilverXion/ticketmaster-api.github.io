@@ -252,18 +252,17 @@ The API also supports [Cross-Origin Resource Sharing (CORS)](http://en.wikipedia
       <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
       <td style="text-align: center;border-left: 0px;" class="checked-td"></td>
     </tr>
-    
     <tr>
-      <td style="text-align: center; background: rgb(255, 255, 255);">
+      <td style="text-align: center">
         <a href="/products-and-docs/apis/commerce/">
           <img src="/assets/img/getting-started/ic-commerce-api.svg" alt="Commerce API">
         </a>
         <h4 style="margin-top:11px;text-">Commerce API</h4>
         </td>
-      <td style="text-align: left;"><a href="/products-and-docs/apis/commerce/#event-offers">Event Offers</a></td>
+      <td style="text-align: left"><a href="/products-and-docs/apis/commerce/#event-offers">Event Offers</a></td>
       <td style="text-align: center;border-right: 0px;" class="checked-td"></td>
-      <td style="text-align: center;border-right: 0px; border-left: 0px; " class="checked-td"></td>
-      <td style="text-align: center;border-right: 0px; border-left: 0px; "  class="checked-td"></td>
+      <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
+      <td style="text-align: center;border-right: 0px; border-left: 0px;"  class="checked-td"></td>
       <td style="text-align: center;border-left: 0px;" class="checked-td"></td>
     </tr>
     
@@ -392,7 +391,7 @@ The API also supports [Cross-Origin Resource Sharing (CORS)](http://en.wikipedia
       <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
       <td style="text-align: center;border-left: 0px;" class="checked-td"></td>
     </tr>
-
+    
     <tr>
       <td style="text-align: center" rowspan="1">
        <a href="/products-and-docs/apis/publish/">
@@ -408,7 +407,7 @@ The API also supports [Cross-Origin Resource Sharing (CORS)](http://en.wikipedia
     </tr>
     
     <tr>
-      <td style="text-align: center; background: rgb(255, 255, 255);" rowspan="16">
+      <td style="text-align: center" rowspan="16">
         <a href="/products-and-docs/apis/international-discovery/">
           <img src="/assets/img/getting-started/ic-flag.svg" alt="International Discovery API">
         </a>
@@ -520,6 +519,36 @@ The API also supports [Cross-Origin Resource Sharing (CORS)](http://en.wikipedia
     </tr>
     <tr>
       <td style="text-align: left"><a href="/products-and-docs/apis/international-discovery/#categories-list">Categories List</a></td>
+      <td style="text-align: center;border-right: 0px;"></td>
+      <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
+      <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
+      <td style="text-align: center;border-left: 0px;" class="checked-td"></td>
+    </tr>
+    <tr>
+    
+    
+    <tr>
+     <td style="text-align: center" rowspan="3">
+       <a href="/products-and-docs/apis/archtics/">
+         <img src="/assets/img/getting-started/ic-archtic.svg" alt="Archtics API">
+       </a>
+       <h4 style="margin-top:11px;text-">Archtics API</h4>
+     </td>
+     <td style="text-align: left"><a href="/products-and-docs/apis/archtics/#customer-add">Customer add</a></td>
+     <td style="text-align: center;border-right: 0px;"></td>
+     <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
+     <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
+     <td style="text-align: center;border-left: 0px;" class="checked-td"></td>
+     </tr>
+    <tr>
+      <td style="text-align: left"><a href="/products-and-docs/apis/archtics/#customer-update">Customer Update</a></td>
+      <td style="text-align: center;border-right: 0px;"></td>
+      <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
+      <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
+      <td style="text-align: center;border-left: 0px;" class="checked-td"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/products-and-docs/apis/archtics/#customer-query">Customer Query</a></td>
       <td style="text-align: center;border-right: 0px;"></td>
       <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
       <td style="text-align: center;border-right: 0px; border-left: 0px;" class="checked-td"></td>
